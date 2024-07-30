@@ -1,4 +1,4 @@
-# Project Setup and Running Guide
+# Setup and Running Guide
 
 ## Prerequisites
 
