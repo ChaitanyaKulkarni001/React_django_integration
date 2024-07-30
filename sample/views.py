@@ -5,7 +5,7 @@ from .models import Movie
 from django.http import HttpResponse
 
 def home(requst):
-    return HttpResponse("Hello World 1")
+    return HttpResponse("Hey Homelander this side! (without tailwind css)")
 
 def seemovie(request):
     if request.method == 'GET':
